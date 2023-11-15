@@ -48,12 +48,6 @@ function burn (address token_address, uint token_value) public{
 ```
 To make your code ready, first, go to the "Solidity Compiler" section on the left side of the screen. After that, click on the "Compile [file_name].sol" button. Once the code is all set, you can put it into action by going to the "Deploy & Run Transactions" area on the left. There, you'll find information about the token name, token abbreviation, and the total supply you've selected.
 
-## Help
-To see if your code is working correctly, follow these steps:
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 Copy the default address and paste it in the "mint" section. Choose an amount to mint and click "transact." Then, check the total supply.
 
@@ -67,14 +61,7 @@ Thank youu
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 Wyron Mediavillo
 202010658@fit.edu.ph
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
